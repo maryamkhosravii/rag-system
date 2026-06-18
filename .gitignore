@@ -1,0 +1,11 @@
+preprocessed_db
+knowledge-base/*.pdf
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+idea/
+.vscode/
